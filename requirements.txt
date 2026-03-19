@@ -1,0 +1,6 @@
+streamlit==1.25.0
+transformers==4.34.0
+sentence-transformers==2.2.2
+torch>=2.0.0
+pydantic==2.7.0
+python-dotenv==1.0.0

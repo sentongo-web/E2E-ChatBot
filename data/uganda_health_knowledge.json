@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "question": "What should I do if I have malaria symptoms?",
+    "answer": "If you have fever, chills, headache, or body pain, get a rapid diagnostic test at a local clinic, start artemisinin-based combination therapy (ACT) if positive, and drink fluids. Seek urgent care for severe illness.",
+    "tags": ["malaria", "fever"]
+  },
+  {
+    "id": 2,
+    "question": "How can I prevent COVID-19 spread?",
+    "answer": "Wear masks in crowded spaces, keep good hand hygiene, stay home when sick, and get vaccinated from a licensed health center. Ventilate indoor spaces and avoid close contact with sick people.",
+    "tags": ["covid", "prevention"]
+  },
+  {
+    "id": 3,
+    "question": "What are safe practices for pregnancy care?",
+    "answer": "Attend antenatal care visits, take iron and folic acid supplements, eat a balanced diet, rest, and seek immediate care if you have bleeding, severe headache, or blurred vision.",
+    "tags": ["pregnancy", "maternal health"]
+  },
+  {
+    "id": 4,
+    "question": "How do I treat a minor burn?",
+    "answer": "Cool the burn under running water for 10-20 minutes, keep it clean, use a non-stick dressing, and avoid applying butter. See a health worker if the burn is large, deep, or on the face/hands/genitals.",
+    "tags": ["burn", "first aid"]
+  },
+  {
+    "id": 5,
+    "question": "Where can I find HIV testing and treatment in Uganda?",
+    "answer": "Visit public health facilities or partner clinics for free HIV testing services. If positive, start antiretroviral therapy (ART) immediately and keep regular follow-ups.",
+    "tags": ["HIV", "testing"]
+  }
+]
